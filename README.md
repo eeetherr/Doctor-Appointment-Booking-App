@@ -16,19 +16,21 @@ Welcome to the Doctor Appointment Booking App! This application allows users to 
 - **Backend**: [Node.js](https://nodejs.org/), [Express](https://expressjs.com/)
 - **Database**: [MongoDB](https://www.mongodb.com/)
 - **Authentication**: [JWT](https://jwt.io/), [bcrypt](https://www.npmjs.com/package/bcrypt)
-- **Hosting**: [Heroku](https://www.heroku.com/) (or any other cloud provider)
 
-## Installation
+## Usage
 
-### Prerequisites
+### Register/Login
 
-Make sure you have the following installed:
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+Users can register and log in to the application to start booking appointments.
 
-### Clone the Repository
+### Book an Appointment
 
-```bash
-git clone https://github.com/eeetherr/Doctor-Appointment-Booking-App.git
-cd Doctor-Appointment-Booking-App
+Select a doctor, choose an available time slot, and book your appointment.
 
+### Manage Appointments
+
+View and manage your scheduled appointments from the dashboard.
+
+### View Doctor Profiles
+
+Check out detailed profiles of doctors to find the right specialist for your needs.
